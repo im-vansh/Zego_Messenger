@@ -38,7 +38,7 @@ A sleek and responsive real-time chat application built with **React.js** and po
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/zego_messenger.git](https://github.com/im-vansh/Zego_Messenger.git)
+git clone https://github.com/im-vansh/Zego_Messenger.git
 
 # Navigate to the project directory
 cd zego_messenger
